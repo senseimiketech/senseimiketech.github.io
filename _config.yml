@@ -1,0 +1,16 @@
+# Site Settings
+
+title: Title
+email: myemail@example.com
+description: >-
+  Write description here
+baseurl: ""
+url: ""
+github_username: senseimiketech
+
+# Build Settings
+theme: minima
+# plugins:
+#   - jekyll-feed
+
+# exclude:
