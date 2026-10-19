@@ -14,3 +14,9 @@ theme: minima
 #   - jekyll-feed
 
 # exclude:
+
+minima:
+  nav_pages:
+    - about.md
+    - ethics.md
+ 
