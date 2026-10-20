@@ -13,7 +13,7 @@ timezone: "America/Toronto"
 github_username: senseimiketech
 
 # Build Settings
-theme: jekyll-theme-minima
+theme: minima
 # plugins:
 #   - jekyll-feed
 
