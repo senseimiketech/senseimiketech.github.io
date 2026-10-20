@@ -9,10 +9,6 @@ url: "https://senseimiketech.github.io"
 
 timezone: "America/Toronto"
 
-author:
-  name: "Sensei Mike Tech"
-  email: myemail@example.com
-
 # Build Settings
 theme: minima
 
