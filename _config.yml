@@ -10,7 +10,7 @@ url: "https://senseimiketech.github.io"
 timezone: "America/Toronto"
 
 # Build Settings
-theme: jekyll-theme-tactile
+theme: minima
 show_downloads: false
 
 plugins:
