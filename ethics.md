@@ -1,6 +1,6 @@
 —--
 layout: page
-title: “Ethics”
+title: Ethics
 categories: stuff
 author: Sensei Mike
 # modified_date: yyyy-mm-dd
