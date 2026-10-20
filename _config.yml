@@ -10,11 +10,13 @@ url: "https://senseimiketech.github.io"
 timezone: "America/Toronto"
 
 # Build Settings
-theme: minima
+theme: jekyll-theme-tactile
+show_downloads: false
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 
 defaults:
   - scope:
@@ -28,8 +30,7 @@ defaults:
 
 # exclude:
 
-minima:
-  skin: auto
+
 
 
  
