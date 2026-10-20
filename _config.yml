@@ -12,7 +12,6 @@ timezone: "America/Toronto"
 author:
   name: "Sensei Mike Tech"
   email: myemail@example.com
-  github: senseimiketech
 
 # Build Settings
 theme: minima
@@ -36,7 +35,5 @@ defaults:
 minima:
   skin: auto
 
-  social_links:
-    github: senseimiketech
-    youtube: senseimiketech 
+
  
