@@ -6,12 +6,26 @@ description: >-
   Write description here
 baseurl: ""
 url: ""
+
+timezone: "America/Toronto"
+
+# Socials
 github_username: senseimiketech
 
 # Build Settings
-theme: minima
+theme: jekyll-theme-minima
 # plugins:
 #   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
 
 # exclude:
 
