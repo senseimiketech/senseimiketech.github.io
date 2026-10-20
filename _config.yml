@@ -5,7 +5,7 @@ email: myemail@example.com
 description: >-
   Write description here
 baseurl: ""
-url: ""
+url: "https://senseimiketech.github.io"
 
 timezone: "America/Toronto"
 
@@ -29,7 +29,7 @@ defaults:
 
 # exclude:
 
-header_pages:
-  - about.md
-  - ethics.md
+# header_pages:
+#   - about.md
+#   - ethics.md
  

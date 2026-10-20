@@ -1,8 +1,7 @@
 —--
 layout: page
 title: Ethics
-categories: stuff
-author: Sensei Mike
+permalink: /ethics/
 # modified_date: yyyy-mm-dd
 ---
 
