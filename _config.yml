@@ -10,8 +10,8 @@ url: "https://senseimiketech.github.io"
 timezone: "America/Toronto"
 
 # Build Settings
-# theme: minima
-remote_theme: "jekyll/minima@c6e74bb"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 show_downloads: false
 
@@ -19,17 +19,25 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 
 defaults:
+  # _posts
   - scope:
       path: ""
+      type: posts
     values:
-      layout: "default"
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+  # _pages
   - scope:
-      path: "_posts"
+      path: ""
+      type: pages
     values:
-      layout: "post"
+      layout: single
 
 # exclude:
 
