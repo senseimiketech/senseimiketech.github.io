@@ -2,6 +2,5 @@
 layout: home
 ---
 
-
-Welcome!
+## Welcome!
 
