@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Gear"
+    url: /gear/ 
   - title: "Ethics"
     url: /ethics/
   - title: "Posts"
