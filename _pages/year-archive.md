@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: “Page Archive”
-permalink: /page-archive/
+title: “Post Archive”
+permalink: /year-archive/
 author_profile: false
 ---
 
