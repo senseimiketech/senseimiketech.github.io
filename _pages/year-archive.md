@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: “Post Archive”
+title: Post Archive
 permalink: /year-archive/
 author_profile: false
 ---
