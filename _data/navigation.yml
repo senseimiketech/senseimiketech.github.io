@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Ethics"
     url: /ethics/
+  - title: "Posts"
+    url: /year-archive/ 
 
  
