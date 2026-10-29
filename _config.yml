@@ -7,6 +7,7 @@ description: >-
 baseurl: ""
 url: "https://senseimiketech.github.io"
 
+locale : "en-CA"
 timezone: "America/Toronto"
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
