@@ -25,9 +25,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-sitemap
 
 # Defaults
 defaults:
@@ -49,6 +49,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # assets 
   - scope:
       path: "assets/**"
