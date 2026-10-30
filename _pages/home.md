@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+sitemap: false
 ---
 
 ## Welcome!
