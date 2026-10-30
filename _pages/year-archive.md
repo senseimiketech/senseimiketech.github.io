@@ -1,11 +1,7 @@
 ---
-layout: archive
-title: Post Archive
+title: "Posts by Year"
 permalink: /year-archive/
-author_profile: false
+layout: posts
+author_profile: true
 ---
 
-
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
