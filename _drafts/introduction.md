@@ -1,10 +1,8 @@
 —--
 layout: single
 title: Introduction
-categories: 
-  - stuff
-tags:
-  - blog
+categories: stuff
+tags: [blog, admin]
 last_modified_at: 2026-10-29T08:13:00-04:00
 —--
 
