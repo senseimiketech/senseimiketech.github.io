@@ -49,8 +49,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-   # assets 
-   - scope:
+  # assets 
+  - scope:
       path: "assets/**"
     values:
       sitemap: false
